@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Big Asset Files
+ParagonCrunch/*
+ParagonGrux/*
+ParagonLetBelica/*
+ParagonProps/*
+ParagonRevenant/*
+ParagonSunWukong/*
